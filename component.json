@@ -1,0 +1,9 @@
+{
+    "repos": "https://github.com/bryaneaton13/react-pull-to-refresh.git",
+    "version": "v1.0.2",
+    "name": "react-pull-to-refresh",
+    "main": "lib/index.js",
+    "dependencies": {
+        "hammerjs": "^2.0.4"
+    }
+}
